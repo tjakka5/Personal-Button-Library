@@ -1,2 +1,1 @@
-# Personal-Button-Library
-Improved version of Dabuton
+# Personal Button Library
